@@ -1,3 +1,51 @@
 img {
-    max-width: 400px;
+    width: 400px;
+    height: auto;
+}
+
+body{
+    background-color: burlywood;
+}
+
+h1{
+    color: green;
+    font-family: "Lucinda Handwriting", "Brush Script MT", sans-serif;
+    text-align: center;
+}
+
+h2{
+    color: green;
+    font-family: "Lucinda Handwriting", "Brush Script MT", sans-serif;
+    text-align: center;
+}
+
+p{
+    font-family: "New Times Roman", Times, serif;
+    color: rgb(1, 73, 1);
+}
+
+ul li{
+    font-size: 22px;
+    color:rgb(28, 104, 28);
+    font-style: italic
+
+}
+
+ol li{
+    font-size: 22px;
+    color: rgb(28,104, 28);
+    font-weight: 800;
+}
+
+a{
+    color: green;
+    font-weight: bold;
+}
+
+a:hover{
+    color: greenyellow;
+}
+
+a:visited{
+    color: rgb(2, 44, 2);
 }
