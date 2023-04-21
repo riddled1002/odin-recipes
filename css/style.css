@@ -1,6 +1,8 @@
 img {
     width: 400px;
     height: auto;
+    margin: 20px;
+    padding: 10px;
 }
 
 body{
@@ -48,4 +50,14 @@ a:hover{
 
 a:visited{
     color: rgb(2, 44, 2);
+}
+
+.description-box,
+.ingredients-box,
+.steps-box,
+.notes-box{
+    width: 400px;
+    margin: 20px;
+    padding: 20px;
+    border: 2px dotted green;
 }
